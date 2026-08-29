@@ -1,0 +1,59 @@
+about:
+  description: Declarative schema migrations with schema-as-code workflows
+  license: Apache-2.0
+  homepage: https://atlasgo.io
+  head: 8b87557
+  archived: false
+  latestVersion: v1.3.0
+  collectedAt: 2026-08-29T07:19:28Z
+timeline:
+  created: 2021-04-30
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-02
+popularity:
+  star: 8689
+  watcher: 28
+  fork: 373
+  release: 54
+  contributor: 87
+  pullRequest: 207
+  issue: 882
+language:
+  Go: 2585456
+  ANTLR: 26612
+  Go Template: 9896
+  Shell: 3341
+totalLine: 2625305
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 10
+    openIssue: 13
+    commit: 2
+  last90d:
+    since: 2026-05-31
+    release: 1
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 16
+    openIssue: 21
+    commit: 10
+  last180d:
+    since: 2026-03-02
+    release: 2
+    mergedPR: 21
+    openPR: 1
+    closedIssue: 45
+    openIssue: 32
+    commit: 21
+  last360d:
+    since: 2025-09-03
+    release: 6
+    mergedPR: 37
+    openPR: 7
+    closedIssue: 81
+    openIssue: 54
+    commit: 37
