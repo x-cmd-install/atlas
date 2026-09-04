@@ -7,7 +7,7 @@ about:
   head: dfaf260
   archived: false
   latestVersion: v1.3.0
-  collectedAt: 2026-09-04T19:53:07Z
+  collectedAt: 2026-09-04T20:49:24Z
 timeline:
   created: 2021-04-30
   lastCommit: 2026-09-04
@@ -34,7 +34,7 @@ recent:
     openPR: 0
     closedIssue: 8
     openIssue: 16
-    commit: 0
+    commit: 3
   last60d:
     since: 2026-07-06
     release: 1
@@ -42,7 +42,7 @@ recent:
     openPR: 0
     closedIssue: 14
     openIssue: 21
-    commit: 0
+    commit: 4
   last90d:
     since: 2026-06-06
     release: 1
@@ -50,7 +50,7 @@ recent:
     openPR: 0
     closedIssue: 18
     openIssue: 23
-    commit: 0
+    commit: 9
   last180d:
     since: 2026-03-08
     release: 2
@@ -58,7 +58,7 @@ recent:
     openPR: 1
     closedIssue: 44
     openIssue: 36
-    commit: 0
+    commit: 21
   last360d:
     since: 2025-09-09
     release: 6
@@ -66,7 +66,7 @@ recent:
     openPR: 7
     closedIssue: 83
     openIssue: 58
-    commit: 0
+    commit: 38
   last720d:
     since: 2024-09-14
     release: 15
@@ -83,6 +83,44 @@ total:
   openIssue: 248
   commit: 2770
 ---
+path: /home/runner/.x-repo/github.com/ariga/atlas
+collectedAt: 2026-09-04T20:49:26Z
+loc:
+  Go:
+    code: 106386
+    comments: 8484
+    blanks: 11563
+    files: 200
+  Sql:
+    code: 1133
+    comments: 193
+    blanks: 197
+    files: 125
+  Yaml:
+    code: 163
+    comments: 1
+    blanks: 16
+    files: 1
+  Hcl:
+    code: 47
+    comments: 0
+    blanks: 3
+    files: 8
+  Sh:
+    code: 35
+    comments: 10
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 262
+    blanks: 117
+    files: 4
+total:
+  code: 107909
+  comments: 8957
+  blanks: 11910
+  files: 339
 ---
 date: "2026-08-24"
 repo:
