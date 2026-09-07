@@ -5,13 +5,13 @@ about:
   head: dfaf260
   archived: false
   latestVersion: "v1.3.0"
-  collectedAt: 2026-09-07T06:13:36Z
+  collectedAt: 2026-09-07T18:15:55Z
 timeline:
   created: 2021-04-30
   lastCommit: 2026-09-04
   lastRelease: 2026-08-02
 popularity:
-  star: 8707
+  star: 8708
   watcher: 29
   fork: 373
   release: 54
@@ -82,7 +82,7 @@ total:
   commit: 2770
 ---
 path: /home/runner/.x-repo/github.com/ariga/atlas
-collectedAt: 2026-09-07T06:13:38Z
+collectedAt: 2026-09-07T18:15:58Z
 loc:
   Go:
     code: 106386
@@ -224,7 +224,7 @@ checks:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/cd-docker-push-cockroach_oss.yaml:12'
 ---
 eget:
-  collectedAt: 2026-09-07T06:13:39+00:00
+  collectedAt: 2026-09-07T18:15:59+00:00
   platform:
     darwin/arm64:
       name:  null
