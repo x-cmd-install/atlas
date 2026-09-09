@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.0"
   latestRelease: "v1.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:15:53Z
+  collectedAt: 2026-09-09T20:55:47Z
 timeline:
   created: 2021-04-30
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-02
   lastPrerelease: 
 popularity:
-  star: 8713
+  star: 8715
   watcher: 29
   fork: 373
   release: 54
@@ -86,7 +86,7 @@ total:
   commit: 2770
 ---
 path: /home/runner/.x-repo/github.com/ariga/atlas
-collectedAt: 2026-09-09T06:15:57Z
+collectedAt: 2026-09-09T20:55:53Z
 loc:
   Go:
     code: 106386
