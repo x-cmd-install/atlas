@@ -7,7 +7,7 @@ Declarative schema migrations with schema-as-code workflows
 - **Latest release**: `v1.3.0` (2026-08-02)
 - **Last commit**: 2026-09-04
 - **License**: Apache-2.0
-- **Stars**: 8713 · **Forks**: 373 · **Open issues**: 888 · **Contributors**: 82
+- **Stars**: 8715 · **Forks**: 373 · **Open issues**: 888 · **Contributors**: 82
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/atlas> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:16:01Z._
+_Last regenerated: 2026-09-09T20:56:12Z._
