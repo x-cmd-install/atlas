@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,718 · **Forks**: 373 · **Open issues**: 888 · **Contributors**: 82
+- **Stars**: 8,722 · **Forks**: 373 · **Open issues**: 888 · **Contributors**: 82
 
 ## Totals (cumulative)
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:20:55Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:27:51Z._
