@@ -4,7 +4,7 @@
 
 Declarative schema migrations with schema-as-code workflows
 
-![atlas](https://repo.x-cmd.io/atlas.svg)
+[![x-cmd/install — atlas Code Quality Monitoring Repo Card](https://repo.x-cmd.io/atlas.svg)](https://x-cmd.com/install/atlas)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install atlas
 
 ## Code insight
 
-Total: **107,764** lines of code across **335** files in the top 5 languages.
+Total: **107,972** lines of code across **335** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 106,386 | 8,484 | 11,563 | 200 |
+| Go | 106,594 | 8,500 | 11,569 | 200 |
 | Sql | 1,133 | 193 | 197 | 125 |
 | Yaml | 163 | 1 | 16 | 1 |
 | Hcl | 47 | 0 | 3 | 8 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.3.0` (2026-08-02)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-09-20
 
 ## Popularity
 
-- **Stars**: 8,729 · **Forks**: 375 · **Open issues**: 891 · **Contributors**: 82
+- **Stars**: 8,733 · **Forks**: 376 · **Open issues**: 892 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2595 · **Open PRs**: 25 · **Closed issues**: 640 · **Open issues**: 251 · **Commits**: 2770
+- **Releases**: 54 · **Merged PRs**: 2596 · **Open PRs**: 25 · **Closed issues**: 643 · **Open issues**: 249 · **Commits**: 2771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 3 | 0 | 5 | 12 | 3 |
-| last60d | 2026-07-20 | 1 | 4 | 0 | 13 | 21 | 4 |
-| 90d | 2026-06-20 | 1 | 6 | 0 | 15 | 25 | 6 |
-| last180d | 2026-03-22 | 2 | 19 | 0 | 41 | 35 | 18 |
-| 360d | 2025-09-23 | 5 | 36 | 5 | 81 | 55 | 36 |
-| last720d | 2024-09-28 | 15 | 236 | 13 | 203 | 130 | 239 |
+| 30d | 2026-08-21 | 0 | 4 | 0 | 7 | 8 | 4 |
+| last60d | 2026-07-22 | 1 | 5 | 0 | 16 | 19 | 5 |
+| 90d | 2026-06-22 | 1 | 5 | 0 | 18 | 23 | 5 |
+| last180d | 2026-03-24 | 2 | 19 | 0 | 44 | 32 | 17 |
+| 360d | 2025-09-25 | 5 | 36 | 5 | 84 | 53 | 34 |
+| last720d | 2024-09-30 | 15 | 231 | 13 | 206 | 128 | 234 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:26:01Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:25:46Z._
