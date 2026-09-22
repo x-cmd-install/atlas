@@ -26,7 +26,7 @@ Total: **108,021** lines of code across **335** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,735 · **Forks**: 376 · **Open issues**: 892 · **Contributors**: 82
+- **Stars**: 8,737 · **Forks**: 376 · **Open issues**: 892 · **Contributors**: 82
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 5 | 0 | 7 | 8 | 5 |
-| last60d | 2026-07-23 | 1 | 6 | 0 | 16 | 19 | 6 |
-| 90d | 2026-06-23 | 1 | 6 | 0 | 18 | 23 | 6 |
-| last180d | 2026-03-25 | 2 | 20 | 0 | 43 | 31 | 18 |
-| 360d | 2025-09-26 | 5 | 37 | 5 | 84 | 53 | 35 |
-| last720d | 2024-10-01 | 15 | 231 | 13 | 206 | 128 | 233 |
+| 30d | 2026-08-23 | 0 | 5 | 0 | 7 | 8 | 5 |
+| last60d | 2026-07-24 | 1 | 6 | 0 | 15 | 19 | 6 |
+| 90d | 2026-06-24 | 1 | 6 | 0 | 18 | 23 | 6 |
+| last180d | 2026-03-26 | 2 | 19 | 0 | 41 | 31 | 18 |
+| 360d | 2025-09-27 | 5 | 37 | 5 | 84 | 53 | 35 |
+| last720d | 2024-10-02 | 14 | 229 | 13 | 204 | 128 | 231 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:34:33Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:02Z._
