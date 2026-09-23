@@ -4,7 +4,7 @@
 
 Declarative schema migrations with schema-as-code workflows
 
-[![x-cmd/install — atlas Code Quality Monitoring Repo Card](https://repo.x-cmd.io/atlas.svg?lang=zh)](https://x-cmd.com/install/atlas)
+[![x-cmd/install — atlas Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/atlas.svg?lang=zh)](https://x-cmd.com/install/atlas)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install atlas
 
 ## 流行度
 
-- **Star**: 8,737 · **Fork**: 376 · **开放 issue**: 892 · **贡献者**: 82
+- **Star**: 8,742 · **Fork**: 376 · **开放 issue**: 892 · **贡献者**: 82
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 2597 · **开放 PR**: 25 · **已关闭 issue**: 643 · **开放 issue**: 249 · **提交数**: 2772
+- **发布数**: 54 · **已合并 PR**: 2597 · **开放 PR**: 25 · **已关闭 issue**: 644 · **开放 issue**: 248 · **提交数**: 2772
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 0 | 7 | 8 | 5 |
-| last60d | 2026-07-24 | 1 | 6 | 0 | 15 | 19 | 6 |
-| 90d | 2026-06-24 | 1 | 6 | 0 | 18 | 23 | 6 |
-| last180d | 2026-03-26 | 2 | 19 | 0 | 41 | 31 | 18 |
-| 360d | 2025-09-27 | 5 | 37 | 5 | 84 | 53 | 35 |
-| last720d | 2024-10-02 | 14 | 229 | 13 | 204 | 128 | 231 |
+| 30d | 2026-08-24 | 0 | 5 | 0 | 8 | 6 | 5 |
+| last60d | 2026-07-25 | 1 | 6 | 0 | 16 | 18 | 6 |
+| 90d | 2026-06-25 | 1 | 6 | 0 | 19 | 22 | 6 |
+| last180d | 2026-03-27 | 2 | 18 | 0 | 41 | 30 | 18 |
+| 360d | 2025-09-28 | 5 | 37 | 5 | 85 | 52 | 35 |
+| last720d | 2024-10-03 | 14 | 228 | 13 | 205 | 127 | 230 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ atlas 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:03Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:51:33Z._

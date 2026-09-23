@@ -4,7 +4,7 @@
 
 Declarative schema migrations with schema-as-code workflows
 
-[![x-cmd/install — atlas Code Quality Monitoring Repo Card](https://repo.x-cmd.io/atlas.svg)](https://x-cmd.com/install/atlas)
+[![x-cmd/install — atlas Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/atlas.svg)](https://x-cmd.com/install/atlas)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,737 · **Forks**: 376 · **Open issues**: 892 · **Contributors**: 82
+- **Stars**: 8,742 · **Forks**: 376 · **Open issues**: 892 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2597 · **Open PRs**: 25 · **Closed issues**: 643 · **Open issues**: 249 · **Commits**: 2772
+- **Releases**: 54 · **Merged PRs**: 2597 · **Open PRs**: 25 · **Closed issues**: 644 · **Open issues**: 248 · **Commits**: 2772
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 0 | 7 | 8 | 5 |
-| last60d | 2026-07-24 | 1 | 6 | 0 | 15 | 19 | 6 |
-| 90d | 2026-06-24 | 1 | 6 | 0 | 18 | 23 | 6 |
-| last180d | 2026-03-26 | 2 | 19 | 0 | 41 | 31 | 18 |
-| 360d | 2025-09-27 | 5 | 37 | 5 | 84 | 53 | 35 |
-| last720d | 2024-10-02 | 14 | 229 | 13 | 204 | 128 | 231 |
+| 30d | 2026-08-24 | 0 | 5 | 0 | 8 | 6 | 5 |
+| last60d | 2026-07-25 | 1 | 6 | 0 | 16 | 18 | 6 |
+| 90d | 2026-06-25 | 1 | 6 | 0 | 19 | 22 | 6 |
+| last180d | 2026-03-27 | 2 | 18 | 0 | 41 | 30 | 18 |
+| 360d | 2025-09-28 | 5 | 37 | 5 | 85 | 52 | 35 |
+| last720d | 2024-10-03 | 14 | 228 | 13 | 205 | 127 | 230 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:51:33Z._
