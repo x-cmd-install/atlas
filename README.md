@@ -14,11 +14,11 @@ x install atlas
 
 ## Code insight
 
-Total: **108,037** lines of code across **335** files in the top 5 languages.
+Total: **108,040** lines of code across **335** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 106,659 | 8,516 | 11,571 | 200 |
+| Go | 106,662 | 8,516 | 11,571 | 200 |
 | Sql | 1,133 | 193 | 197 | 125 |
 | Yaml | 163 | 1 | 16 | 1 |
 | Hcl | 47 | 0 | 3 | 8 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.3.0` (2026-08-02)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-04
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2599 · **Open PRs**: 25 · **Closed issues**: 644 · **Open issues**: 252 · **Commits**: 2774
+- **Releases**: 54 · **Merged PRs**: 2600 · **Open PRs**: 25 · **Closed issues**: 644 · **Open issues**: 252 · **Commits**: 2775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 4 | 0 | 3 | 5 | 4 |
-| last60d | 2026-08-05 | 0 | 7 | 0 | 12 | 20 | 7 |
-| 90d | 2026-07-06 | 1 | 8 | 0 | 18 | 25 | 8 |
-| last180d | 2026-04-07 | 2 | 20 | 0 | 41 | 33 | 19 |
-| 360d | 2025-10-09 | 5 | 37 | 5 | 84 | 56 | 37 |
-| last720d | 2024-10-14 | 14 | 219 | 13 | 205 | 128 | 219 |
+| 30d | 2026-09-05 | 0 | 5 | 0 | 3 | 5 | 5 |
+| last60d | 2026-08-06 | 0 | 8 | 0 | 11 | 18 | 8 |
+| 90d | 2026-07-07 | 1 | 9 | 0 | 18 | 25 | 9 |
+| last180d | 2026-04-08 | 2 | 21 | 0 | 40 | 33 | 20 |
+| 360d | 2025-10-10 | 5 | 38 | 5 | 84 | 55 | 38 |
+| last720d | 2024-10-15 | 14 | 217 | 13 | 205 | 128 | 220 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:05:01Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:55:57Z._
