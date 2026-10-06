@@ -26,13 +26,13 @@ Total: **108,040** lines of code across **335** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.9 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,761 · **Forks**: 378 · **Open issues**: 896 · **Contributors**: 82
+- **Stars**: 8,760 · **Forks**: 379 · **Open issues**: 896 · **Contributors**: 82
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 5 | 0 | 3 | 5 | 5 |
-| last60d | 2026-08-06 | 0 | 8 | 0 | 11 | 18 | 8 |
-| 90d | 2026-07-07 | 1 | 9 | 0 | 18 | 25 | 9 |
-| last180d | 2026-04-08 | 2 | 21 | 0 | 40 | 33 | 20 |
-| 360d | 2025-10-10 | 5 | 38 | 5 | 84 | 55 | 38 |
-| last720d | 2024-10-15 | 14 | 217 | 13 | 205 | 128 | 220 |
+| 30d | 2026-09-06 | 0 | 5 | 0 | 3 | 5 | 5 |
+| last60d | 2026-08-07 | 0 | 8 | 0 | 11 | 18 | 8 |
+| 90d | 2026-07-08 | 1 | 9 | 0 | 18 | 25 | 9 |
+| last180d | 2026-04-09 | 2 | 21 | 0 | 39 | 33 | 20 |
+| 360d | 2025-10-11 | 5 | 38 | 5 | 84 | 55 | 38 |
+| last720d | 2024-10-16 | 14 | 217 | 13 | 205 | 127 | 217 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:55:57Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:46:05Z._
