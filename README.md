@@ -14,13 +14,13 @@ x install atlas
 
 ## Code insight
 
-Total: **108,040** lines of code across **335** files in the top 5 languages.
+Total: **108,045** lines of code across **336** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 106,662 | 8,516 | 11,571 | 200 |
 | Sql | 1,133 | 193 | 197 | 125 |
-| Yaml | 163 | 1 | 16 | 1 |
+| Yaml | 168 | 1 | 17 | 2 |
 | Hcl | 47 | 0 | 3 | 8 |
 | Sh | 35 | 10 | 4 | 1 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.3.0` (2026-08-02)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 8,760 · **Forks**: 379 · **Open issues**: 896 · **Contributors**: 82
+- **Stars**: 8,761 · **Forks**: 379 · **Open issues**: 896 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2600 · **Open PRs**: 25 · **Closed issues**: 644 · **Open issues**: 252 · **Commits**: 2775
+- **Releases**: 54 · **Merged PRs**: 2602 · **Open PRs**: 25 · **Closed issues**: 644 · **Open issues**: 252 · **Commits**: 2777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 5 | 0 | 3 | 5 | 5 |
-| last60d | 2026-08-07 | 0 | 8 | 0 | 11 | 18 | 8 |
-| 90d | 2026-07-08 | 1 | 9 | 0 | 18 | 25 | 9 |
-| last180d | 2026-04-09 | 2 | 21 | 0 | 39 | 33 | 20 |
-| 360d | 2025-10-11 | 5 | 38 | 5 | 84 | 55 | 38 |
-| last720d | 2024-10-16 | 14 | 217 | 13 | 205 | 127 | 217 |
+| 30d | 2026-09-07 | 0 | 7 | 0 | 3 | 5 | 7 |
+| last60d | 2026-08-08 | 0 | 10 | 0 | 10 | 15 | 10 |
+| 90d | 2026-07-09 | 1 | 11 | 0 | 17 | 25 | 11 |
+| last180d | 2026-04-10 | 2 | 22 | 0 | 39 | 33 | 22 |
+| 360d | 2025-10-12 | 5 | 40 | 5 | 84 | 55 | 40 |
+| last720d | 2024-10-17 | 14 | 218 | 13 | 205 | 127 | 219 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:46:05Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:11:31Z._
