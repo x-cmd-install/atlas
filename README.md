@@ -26,13 +26,13 @@ Total: **108,065** lines of code across **340** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,766 · **Forks**: 379 · **Open issues**: 899 · **Contributors**: 82
+- **Stars**: 8,767 · **Forks**: 380 · **Open issues**: 899 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2605 · **Open PRs**: 25 · **Closed issues**: 646 · **Open issues**: 253 · **Commits**: 2780
+- **Releases**: 54 · **Merged PRs**: 2605 · **Open PRs**: 25 · **Closed issues**: 647 · **Open issues**: 252 · **Commits**: 2780
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 10 | 0 | 5 | 6 | 10 |
-| last60d | 2026-08-13 | 0 | 13 | 0 | 12 | 16 | 13 |
-| 90d | 2026-07-14 | 1 | 14 | 0 | 19 | 26 | 14 |
-| last180d | 2026-04-15 | 1 | 24 | 0 | 36 | 34 | 24 |
-| 360d | 2025-10-17 | 5 | 43 | 5 | 86 | 56 | 43 |
-| last720d | 2024-10-22 | 14 | 217 | 13 | 207 | 128 | 217 |
+| 30d | 2026-09-13 | 0 | 10 | 0 | 6 | 5 | 10 |
+| last60d | 2026-08-14 | 0 | 13 | 0 | 13 | 15 | 13 |
+| 90d | 2026-07-15 | 1 | 14 | 0 | 20 | 23 | 14 |
+| last180d | 2026-04-16 | 1 | 24 | 0 | 36 | 32 | 24 |
+| 360d | 2025-10-18 | 5 | 43 | 5 | 87 | 55 | 43 |
+| last720d | 2024-10-23 | 14 | 217 | 13 | 208 | 127 | 217 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:27:39Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:18:42Z._
