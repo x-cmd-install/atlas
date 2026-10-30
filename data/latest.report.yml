@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.3.0"
   latestRelease: "v1.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T07:18:08Z
+  collectedAt: 2026-10-30T07:16:10Z
 timeline:
   created: 2021-04-30
   lastCommit: 2026-10-28
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-02
   lastPrerelease: 
 popularity:
-  star: 8803
+  star: 8805
   watcher: 29
-  fork: 380
+  fork: 381
   release: 54
   contributor: 82
   pullRequest: 2814
@@ -30,15 +30,15 @@ language:
 totalBytes: 2641877
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 10
+    mergedPR: 8
     openPR: 0
     closedIssue: 7
     openIssue: 5
     commit: 8
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 13
     openPR: 0
@@ -46,15 +46,15 @@ recent:
     openIssue: 12
     commit: 13
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 1
     mergedPR: 15
     openPR: 0
     closedIssue: 23
-    openIssue: 25
+    openIssue: 24
     commit: 15
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
     mergedPR: 26
     openPR: 0
@@ -62,7 +62,7 @@ recent:
     openIssue: 34
     commit: 26
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 4
     mergedPR: 44
     openPR: 4
@@ -70,13 +70,13 @@ recent:
     openIssue: 58
     commit: 44
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 14
     mergedPR: 207
     openPR: 11
     closedIssue: 207
     openIssue: 129
-    commit: 208
+    commit: 207
 total:
   release: 54
   mergedPR: 2607
@@ -86,7 +86,7 @@ total:
   commit: 2782
 ---
 path: /home/runner/.x-repo/github.com/ariga/atlas
-collectedAt: 2026-10-29T07:18:11Z
+collectedAt: 2026-10-30T07:16:15Z
 loc:
   Go:
     code: 106689
