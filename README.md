@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,804 · **Forks**: 381 · **Open issues**: 906 · **Contributors**: 82
+- **Stars**: 8,805 · **Forks**: 381 · **Open issues**: 906 · **Contributors**: 82
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 8 | 0 | 7 | 3 | 4 |
-| last60d | 2026-09-02 | 0 | 13 | 0 | 11 | 11 | 12 |
-| 90d | 2026-08-03 | 0 | 15 | 0 | 22 | 24 | 15 |
-| last180d | 2026-05-05 | 1 | 26 | 0 | 37 | 34 | 26 |
-| 360d | 2025-11-06 | 4 | 44 | 4 | 88 | 58 | 43 |
-| last720d | 2024-11-11 | 14 | 207 | 11 | 207 | 129 | 207 |
+| 30d | 2026-10-03 | 0 | 8 | 0 | 7 | 3 | 4 |
+| last60d | 2026-09-03 | 0 | 13 | 0 | 11 | 9 | 12 |
+| 90d | 2026-08-04 | 0 | 15 | 0 | 19 | 23 | 15 |
+| last180d | 2026-05-06 | 1 | 26 | 0 | 36 | 34 | 26 |
+| 360d | 2025-11-07 | 4 | 44 | 4 | 87 | 57 | 43 |
+| last720d | 2024-11-12 | 14 | 207 | 11 | 207 | 129 | 207 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:19:26Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:31:15Z._
