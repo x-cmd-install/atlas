@@ -24,16 +24,6 @@ Total: **108,104** lines of code across **336** files in the top 5 languages.
 | Hcl | 47 | 0 | 3 | 8 |
 | Sh | 35 | 10 | 4 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **6.2 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-
 ## Source
 
 - **Upstream**: <https://github.com/ariga/atlas>
@@ -47,22 +37,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,809 · **Forks**: 382 · **Open issues**: 908 · **Contributors**: 82
+- **Stars**: 8,812 · **Forks**: 382 · **Open issues**: 908 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2609 · **Open PRs**: 24 · **Closed issues**: 651 · **Open issues**: 257 · **Commits**: 2784
+- **Releases**: 54 · **Merged PRs**: 2609 · **Open PRs**: 24 · **Closed issues**: 653 · **Open issues**: 255 · **Commits**: 2784
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 6 | 0 | 5 | 5 | 4 |
-| last60d | 2026-09-10 | 0 | 14 | 0 | 10 | 10 | 14 |
-| 90d | 2026-08-11 | 0 | 17 | 0 | 17 | 20 | 17 |
-| last180d | 2026-05-13 | 1 | 28 | 0 | 35 | 35 | 27 |
-| 360d | 2025-11-14 | 4 | 45 | 4 | 86 | 59 | 45 |
-| last720d | 2024-11-19 | 14 | 206 | 11 | 206 | 129 | 206 |
+| 30d | 2026-10-11 | 0 | 4 | 0 | 5 | 4 | 4 |
+| last60d | 2026-09-11 | 0 | 14 | 0 | 11 | 9 | 14 |
+| 90d | 2026-08-12 | 0 | 17 | 0 | 18 | 19 | 17 |
+| last180d | 2026-05-14 | 1 | 27 | 0 | 34 | 34 | 27 |
+| 360d | 2025-11-15 | 4 | 45 | 4 | 87 | 58 | 45 |
+| last720d | 2024-11-20 | 14 | 205 | 11 | 207 | 126 | 206 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:54:20Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:59:00Z._

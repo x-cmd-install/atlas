@@ -24,16 +24,6 @@ x install atlas
 | Hcl | 47 | 0 | 3 | 8 |
 | Sh | 35 | 10 | 4 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **6.2 / 10**
-
-评分最低的几项:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/ariga/atlas>
@@ -47,22 +37,22 @@ x install atlas
 
 ## 流行度
 
-- **Star**: 8,809 · **Fork**: 382 · **开放 issue**: 908 · **贡献者**: 82
+- **Star**: 8,812 · **Fork**: 382 · **开放 issue**: 908 · **贡献者**: 82
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 2609 · **开放 PR**: 24 · **已关闭 issue**: 651 · **开放 issue**: 257 · **提交数**: 2784
+- **发布数**: 54 · **已合并 PR**: 2609 · **开放 PR**: 24 · **已关闭 issue**: 653 · **开放 issue**: 255 · **提交数**: 2784
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 6 | 0 | 5 | 5 | 4 |
-| last60d | 2026-09-10 | 0 | 14 | 0 | 10 | 10 | 14 |
-| 90d | 2026-08-11 | 0 | 17 | 0 | 17 | 20 | 17 |
-| last180d | 2026-05-13 | 1 | 28 | 0 | 35 | 35 | 27 |
-| 360d | 2025-11-14 | 4 | 45 | 4 | 86 | 59 | 45 |
-| last720d | 2024-11-19 | 14 | 206 | 11 | 206 | 129 | 206 |
+| 30d | 2026-10-11 | 0 | 4 | 0 | 5 | 4 | 4 |
+| last60d | 2026-09-11 | 0 | 14 | 0 | 11 | 9 | 14 |
+| 90d | 2026-08-12 | 0 | 17 | 0 | 18 | 19 | 17 |
+| last180d | 2026-05-14 | 1 | 27 | 0 | 34 | 34 | 27 |
+| 360d | 2025-11-15 | 4 | 45 | 4 | 87 | 58 | 45 |
+| last720d | 2024-11-20 | 14 | 205 | 11 | 207 | 126 | 206 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ atlas 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:54:20Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:59:01Z._
