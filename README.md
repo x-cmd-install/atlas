@@ -33,26 +33,26 @@ Total: **108,104** lines of code across **336** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-08-02)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-15
 
 ## Popularity
 
-- **Stars**: 8,823 · **Forks**: 384 · **Open issues**: 908 · **Contributors**: 82
+- **Stars**: 8,826 · **Forks**: 384 · **Open issues**: 908 · **Contributors**: 82
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 2609 · **Open PRs**: 24 · **Closed issues**: 653 · **Open issues**: 255 · **Commits**: 2784
+- **Releases**: 54 · **Merged PRs**: 2610 · **Open PRs**: 24 · **Closed issues**: 653 · **Open issues**: 255 · **Commits**: 2785
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 4 | 0 | 4 | 3 | 3 |
-| last60d | 2026-09-16 | 0 | 14 | 0 | 11 | 8 | 12 |
-| 90d | 2026-08-17 | 0 | 17 | 0 | 18 | 18 | 17 |
-| last180d | 2026-05-19 | 1 | 26 | 0 | 33 | 34 | 25 |
-| 360d | 2025-11-20 | 4 | 45 | 4 | 86 | 58 | 45 |
-| last720d | 2024-11-25 | 14 | 202 | 11 | 205 | 125 | 202 |
+| 30d | 2026-10-17 | 0 | 5 | 0 | 4 | 3 | 4 |
+| last60d | 2026-09-17 | 0 | 15 | 0 | 9 | 8 | 13 |
+| 90d | 2026-08-18 | 0 | 18 | 0 | 18 | 18 | 18 |
+| last180d | 2026-05-20 | 1 | 27 | 0 | 32 | 34 | 26 |
+| 360d | 2025-11-21 | 4 | 46 | 4 | 85 | 58 | 46 |
+| last720d | 2024-11-26 | 14 | 202 | 11 | 204 | 125 | 203 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:10:16Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:56:04Z._
