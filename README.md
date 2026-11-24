@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,838 · **Forks**: 386 · **Open issues**: 911 · **Contributors**: 82
+- **Stars**: 8,841 · **Forks**: 386 · **Open issues**: 911 · **Contributors**: 82
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 5 | 0 | 2 | 4 | 0 |
-| last60d | 2026-09-24 | 1 | 14 | 0 | 8 | 11 | 0 |
-| 90d | 2026-08-25 | 1 | 19 | 0 | 15 | 17 | 0 |
-| last180d | 2026-05-27 | 2 | 27 | 0 | 32 | 37 | 0 |
-| 360d | 2025-11-28 | 5 | 47 | 4 | 85 | 59 | 0 |
-| last720d | 2024-12-03 | 14 | 199 | 11 | 204 | 127 | 199 |
+| 30d | 2026-10-25 | 1 | 5 | 0 | 2 | 4 | 4 |
+| last60d | 2026-09-25 | 1 | 14 | 0 | 8 | 10 | 14 |
+| 90d | 2026-08-26 | 1 | 19 | 0 | 15 | 17 | 17 |
+| last180d | 2026-05-28 | 2 | 27 | 0 | 31 | 37 | 27 |
+| 360d | 2025-11-29 | 5 | 47 | 4 | 85 | 59 | 47 |
+| last720d | 2024-12-04 | 14 | 199 | 11 | 204 | 126 | 199 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:34:20Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:49:24Z._
