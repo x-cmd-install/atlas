@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2611 · **Open PRs**: 24 · **Closed issues**: 653 · **Open issues**: 258 · **Commits**: 2786
+- **Releases**: 55 · **Merged PRs**: 2611 · **Open PRs**: 24 · **Closed issues**: 654 · **Open issues**: 257 · **Commits**: 2786
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 5 | 0 | 2 | 4 | 4 |
-| last60d | 2026-09-25 | 1 | 14 | 0 | 8 | 10 | 14 |
-| 90d | 2026-08-26 | 1 | 19 | 0 | 15 | 17 | 17 |
-| last180d | 2026-05-28 | 2 | 27 | 0 | 31 | 37 | 27 |
-| 360d | 2025-11-29 | 5 | 47 | 4 | 85 | 59 | 47 |
-| last720d | 2024-12-04 | 14 | 199 | 11 | 204 | 126 | 199 |
+| 30d | 2026-10-26 | 1 | 5 | 0 | 3 | 3 | 4 |
+| last60d | 2026-09-26 | 1 | 14 | 0 | 9 | 8 | 14 |
+| 90d | 2026-08-27 | 1 | 18 | 0 | 15 | 15 | 17 |
+| last180d | 2026-05-29 | 2 | 27 | 0 | 32 | 36 | 27 |
+| 360d | 2025-11-30 | 5 | 47 | 4 | 86 | 58 | 47 |
+| last720d | 2024-12-05 | 14 | 198 | 11 | 205 | 124 | 199 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for atlas lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:49:24Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:04:39Z._
